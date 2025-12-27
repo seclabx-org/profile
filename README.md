@@ -1,5 +1,7 @@
 # SeclabX · Secure Laboratory X
 
+[中文说明 / 中文 README](https://github.com/seclabx-org/profile/blob/main/README.zh-CN.md)
+
 SeclabX is an open lab focused on **cybersecurity education, hands-on practice, and applied research**.
 
 We build an integrated ecosystem covering **education, CTF training, security labs, research code, and open-source tools**, aiming to bridge **education, practice, and research** in cybersecurity.
