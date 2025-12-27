@@ -1,72 +1,39 @@
 # SeclabX · Secure Laboratory X
 
-An open lab focused on **cybersecurity education, hands-on practice, and applied research**.
+SeclabX is an open lab focused on **cybersecurity education, hands-on practice, and applied research**.
 
-SeclabX builds an integrated ecosystem covering **science popularization, ideological & civic education, CTF platforms, security labs, research code, and open-source tools**, aiming to bridge **education, practice, and research** in cybersecurity.
-
----
-
-## 🌐 Platforms
-
-- **seclabx-web-portal**  
-  Main portal of SeclabX  
-  🌍 https://seclabx.cn
-
-- **seclabx-web-ctf**  
-  CTF training and competition platform  
-  🎯 https://ctf.seclabx.cn
+We build an integrated ecosystem covering **education, CTF training, security labs, research code, and open-source tools**, aiming to bridge **education, practice, and research** in cybersecurity.
 
 ---
 
-## 📘 Education
+## 📂 Repository Structure
 
-- **seclabx-edu-science**  
-  Cybersecurity science popularization and digital literacy resources  
-  🔬 https://science.seclabx.cn
+SeclabX repositories are organized using consistent prefixes:
 
-- **seclabx-edu-sc**  
-  Ideological & Civic Education resources for cybersecurity courses  
-  🎓 https://sc.seclabx.cn
+- **`seclabx-web-*`**  
+  Platforms and web systems, including the main portal and CTF platform.
 
----
+- **`seclabx-edu-*`**  
+  Educational resources, including science popularization and ideological & civic education.
 
-## 🧪 Labs & CTF Repositories
+- **`seclabx-lab-*`**  
+  Hands-on labs and CTF challenge repositories for courses and training.
 
-- **seclabx-lab-linux-ctf**  
-  Linux course CTF challenge set
+- **`seclabx-research-*`**  
+  Research code and experimental implementations for academic papers.
 
-- **seclabx-lab-web-ctf**  
-  Web security course CTF challenge set
-
-- **seclabx-lab-vulnhub-ctf**  
-  VulnHub machines adapted into CTF-style challenges
-
----
-
-## 🔬 Research
-
-- **seclabx-research-msp-ids**  
-  Research code and experimental implementation for the *MSP-IDS* paper
-
----
-
-## 🛠 Tools
-
-- **seclabx-tool-xxx**  
-  Security tools, scripts, and experimental utilities developed within SeclabX
+- **`seclabx-tool-*`**  
+  Security tools, scripts, and experimental utilities.
 
 ---
 
 ## 🤝 Contributing
 
-SeclabX welcomes contributions from **students, educators, and collaborators**.
-
-- Please check each repository’s README for scope and contribution guidelines.
-- Educational and research collaborations are especially encouraged.
+Students, educators, and collaborators are welcome to participate.
+Please refer to each repository’s README for scope and contribution guidelines.
 
 ---
 
 ## 📌 About
 
-SeclabX is dedicated to building a **long-term, open, and reproducible cybersecurity education and research platform**, supporting teaching innovation, practical training, and academic research.
-
+SeclabX is committed to building a **long-term, open, and reproducible cybersecurity education and research platform**.
